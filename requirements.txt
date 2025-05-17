@@ -1,0 +1,7 @@
+apache-airflow==2.7.1
+apache-airflow-providers-amazon
+pandas
+pyarrow
+requests
+SQLAlchemy
+boto3
